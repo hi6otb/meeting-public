@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleExecutable</key><string>Interview</string>
+<key>CFBundleIdentifier</key><string>app.interview.native</string>
+<key>CFBundleName</key><string>Interview</string>
+<key>CFBundleDisplayName</key><string>Interview</string>
+<key>CFBundleIconFile</key><string>AppIcon</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>0.1.0</string>
+<key>CFBundleVersion</key><string>1</string>
+<key>LSMinimumSystemVersion</key><string>26.0</string>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSMicrophoneUsageDescription</key><string>自分の発言をMac内で文字起こしするためにマイクを使用します。</string>
+<key>NSSpeechRecognitionUsageDescription</key><string>会話をAppleの端末内音声認識で文字起こしします。</string>
+<key>NSScreenCaptureUsageDescription</key><string>通話相手の音声を文字起こしするためにPCの出力音声を取得します。画面映像は保存しません。</string>
+<key>NSAudioCaptureUsageDescription</key><string>通話相手の音声をMac内で文字起こしするためにシステム音声を使用します。</string>
+</dict></plist>
